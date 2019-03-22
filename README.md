@@ -4,7 +4,7 @@
 
 ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
 
-也可以通过微信联系我。
+### 也可以通过微信联系我。
 
 ![微信](https://github.com/Brucepk/pk.github.io/blob/master/pkwx.jpg)
 
